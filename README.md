@@ -43,3 +43,23 @@ build environment:
 ```sh
 npm install
 ```
+5. install express and nodemon
+express will be used to create the server while nodemon will help us to keep track of changes to our application by watching changed files and automatically restart the server.
+```sh
+npm install --save-dev nodemon
+
+npm install express --save
+```
+6. to start server
+```sh
+npm run start
+```
+7. install mongoose
+```sh
+npm install mongoose --save
+```
+8. start MongoDB server
+```sh
+mongod
+``
+9. test via [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
