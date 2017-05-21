@@ -61,5 +61,5 @@ npm install mongoose --save
 8. start MongoDB server
 ```sh
 mongod
-``
+```
 9. test via [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
